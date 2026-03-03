@@ -1,0 +1,12 @@
+{
+  "name": "KJ Prime",
+  "short_name": "KJ Prime",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#5a1414",
+  "icons": [
+    { "src": "icon-192-safe.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512-safe.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
